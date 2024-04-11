@@ -22,13 +22,13 @@
         public Book(string itemId, string title)
         {
             ItemId = itemId;
-            _title = title;
+            Title = title;
         }
         public Book(string itemId, string title, double price)
         {
             ItemId = itemId;
-            _title = title;
-            _price = price;
+            Title = title;
+            Price = price;
         }
         public override string ToString()
         {

@@ -22,13 +22,13 @@
         public Amulet(string itemId, Level quality)
         {
             ItemId = itemId;
-            _quality = quality;
+            Quality = quality;
         }
         public Amulet(string itemId, Level quality, string design)
         {
             ItemId = itemId;
-            _quality = quality;
-            _design = design;
+            Quality = quality;
+            Design = design;
         }
         public override string ToString()
         {

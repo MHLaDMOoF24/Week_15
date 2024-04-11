@@ -31,5 +31,26 @@ namespace Disaheim
             }
             return Price;
         }
+
+        public double GetValueOfCourse(Course course)
+        {
+            double Price = 875;
+            double time = 0;
+
+            time = course.DurationInMinutes / 60;
+
+            if (course.DurationInMinutes == null || course.DurationInMinutes == 0)
+                Price = 0;
+            else
+            {
+                if (course.DurationInMinutes % 60 > 0)
+                    time++;
+                Price *= time;
+            }
+
+            return Price;
+        }
+
+
     }
 }
