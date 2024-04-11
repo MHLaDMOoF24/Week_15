@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DisaheimTest\DisaheimTest.csproj" />
     <ProjectReference Include="..\Week_15\Disaheim.csproj" />
   </ItemGroup>
 
