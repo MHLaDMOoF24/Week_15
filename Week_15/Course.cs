@@ -22,10 +22,7 @@ namespace Disaheim
             set { _durationInMinutes = value; }
         }
 
-        public Course(string name)
-        {
-            Name = name;
-        }
+        public Course(string name) : this(name, 0) { }
         public Course(string name, int durationInMinutes)
         {
             Name = name;
