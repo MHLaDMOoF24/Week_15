@@ -18,12 +18,13 @@ namespace Disaheim
 
         public Merchandise(string itemId) 
         {
-            _itemId = itemId;
+            ItemId = itemId;
         }
 
         public override string ToString()
         {
-            return base.ToString();
+            return $"ItemId: {ItemId}";
+            //return base.ToString();
         }
     }
 }

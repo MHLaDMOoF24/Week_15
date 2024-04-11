@@ -1,15 +1,9 @@
 ﻿namespace Disaheim
 {
-    public class Book
+    public class Book : Merchandise
     {
-        private string _itemId;
         private string _title;
         private double _price;
-        public string ItemId
-        {
-            get { return _itemId; }
-            set { _itemId = value; }
-        }
         public string Title
         {
             get { return _title; }
@@ -21,18 +15,15 @@
             set { _price = value; }
         }
 
-        public Book(string itemId)
+        public Book(string itemId) : base(itemId)
         {
-            _itemId = itemId;
         }
-        public Book(string itemId, string title)
+        public Book(string itemId, string title) : base(itemId)
         {
-            _itemId = itemId;
             _title = title;
         }
-        public Book(string itemId, string title, double price)
+        public Book(string itemId, string title, double price) : base(itemId)
         {
-            _itemId = itemId;
             _title = title;
             _price = price;
         }
