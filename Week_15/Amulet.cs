@@ -15,15 +15,18 @@
             set { _quality = value; }
         }
 
-        public Amulet(string itemId) : base(itemId)
+        public Amulet(string itemId)
         {
+            ItemId = itemId;
         }
-        public Amulet(string itemId, Level quality) : base(itemId)
+        public Amulet(string itemId, Level quality)
         {
+            ItemId = itemId;
             _quality = quality;
         }
-        public Amulet(string itemId, Level quality, string design) : base(itemId)
+        public Amulet(string itemId, Level quality, string design)
         {
+            ItemId = itemId;
             _quality = quality;
             _design = design;
         }

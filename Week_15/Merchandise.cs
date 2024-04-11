@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Merchandise
+    public abstract class Merchandise
     {
         private string _itemId;
 
@@ -16,15 +16,14 @@ namespace Disaheim
             set { _itemId = value; }
         }
 
-        public Merchandise(string itemId) 
-        {
-            ItemId = itemId;
-        }
+        //public Merchandise(string itemId) 
+        //{
+        //    ItemId = itemId;
+        //}
 
-        public override string ToString()
+        public virtual string ToString()
         {
             return $"ItemId: {ItemId}";
-            //return base.ToString();
         }
     }
 }

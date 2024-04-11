@@ -15,15 +15,18 @@
             set { _price = value; }
         }
 
-        public Book(string itemId) : base(itemId)
+        public Book(string itemId)
         {
+            ItemId = itemId;
         }
-        public Book(string itemId, string title) : base(itemId)
+        public Book(string itemId, string title)
         {
+            ItemId = itemId;
             _title = title;
         }
-        public Book(string itemId, string title, double price) : base(itemId)
+        public Book(string itemId, string title, double price)
         {
+            ItemId = itemId;
             _title = title;
             _price = price;
         }

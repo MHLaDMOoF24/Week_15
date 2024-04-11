@@ -91,21 +91,23 @@ namespace DisaheimTest
 
         }
 
-        [TestMethod]
+        //[TestMethod]
 
-        public void MerchandiseConstructorWorkProperly()
+        //public void MerchandiseConstructorWorkProperly()
 
-        {
+        //{
 
-            // Arrange
+        //    // Arrange
 
-            Merchandise m = new Merchandise("100");
+        //    Merchandise m = new Merchandise("100");
 
-            // Assert
+        //    // Assert
 
-            Assert.AreEqual("ItemId: 100", m.ToString());
+        //    Assert.AreEqual("ItemId: 100", m.ToString());
 
-        }
+        //}
+
+
 
     }
 }
