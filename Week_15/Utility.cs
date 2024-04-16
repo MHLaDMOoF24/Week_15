@@ -3,19 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Disaheim;
 
-namespace UtilityLib
+namespace Disaheim
 {
-    public class Utility
+    public static class Utility
     {
-        public double GetValueOfBook(Book book)
+        public static double GetValueOfBook(Book book)
         {
             double Price = book.Price;
             return Price;
         }
 
-        public double GetValueOfAmulet(Amulet amulet)
+        public static double GetValueOfAmulet(Amulet amulet)
         {
             double Price = 0;
             switch (amulet.Quality)
@@ -33,7 +32,7 @@ namespace UtilityLib
             return Price;
         }
 
-        public double GetValueOfCourse(Course course)
+        public static double GetValueOfCourse(Course course)
         {
             double Price = 875;
             double time = 0;

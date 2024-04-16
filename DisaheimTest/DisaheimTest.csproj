@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UtilityLib\UtilityLib.csproj" />
     <ProjectReference Include="..\Week_15\Disaheim.csproj" />
   </ItemGroup>
 

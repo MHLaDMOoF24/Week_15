@@ -1,6 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Disaheim;
-using UtilityLib;
 
 namespace DisaheimTest
 
@@ -17,7 +16,7 @@ namespace DisaheimTest
 
         Course c1, c2, c3;
 
-        Utility utility;
+        //Utility utility;
 
         [TestInitialize]
 
@@ -45,7 +44,7 @@ namespace DisaheimTest
 
             c3 = new Course("Et indblik i Helleristning", 180);
 
-            utility = new Utility();
+            //utility = new Utility();
 
         }
 
@@ -57,7 +56,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(0.0, utility.GetValueOfBook(b1));
+            Assert.AreEqual(0.0, Utility.GetValueOfBook(b1));
 
         }
 
@@ -69,7 +68,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(0.0, utility.GetValueOfBook(b2));
+            Assert.AreEqual(0.0, Utility.GetValueOfBook(b2));
 
         }
 
@@ -81,7 +80,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(123.55, utility.GetValueOfBook(b3));
+            Assert.AreEqual(123.55, Utility.GetValueOfBook(b3));
 
         }
 
@@ -93,7 +92,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(20.0, utility.GetValueOfAmulet(a1));
+            Assert.AreEqual(20.0, Utility.GetValueOfAmulet(a1));
 
         }
 
@@ -105,7 +104,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(27.5, utility.GetValueOfAmulet(a2));
+            Assert.AreEqual(27.5, Utility.GetValueOfAmulet(a2));
 
         }
 
@@ -117,7 +116,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(12.5, utility.GetValueOfAmulet(a3));
+            Assert.AreEqual(12.5, Utility.GetValueOfAmulet(a3));
 
         }
 
@@ -129,7 +128,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(0.0, utility.GetValueOfCourse(c1));
+            Assert.AreEqual(0.0, Utility.GetValueOfCourse(c1));
 
         }
 
@@ -141,7 +140,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(2625.0, utility.GetValueOfCourse(c2));
+            Assert.AreEqual(2625.0, Utility.GetValueOfCourse(c2));
 
         }
 
@@ -153,7 +152,7 @@ namespace DisaheimTest
 
             // Assert
 
-            Assert.AreEqual(2625.0, utility.GetValueOfCourse(c3));
+            Assert.AreEqual(2625.0, Utility.GetValueOfCourse(c3));
 
         }
 
