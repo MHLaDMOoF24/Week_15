@@ -10,7 +10,6 @@ namespace Disaheim
     public class CourseRepository
     {
         private List<Course> courses = new List<Course>();
-        //private Utility utility;    // new Utility? Check later if working!
 
         public void AddCourse(Course course)
         {

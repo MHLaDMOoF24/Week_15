@@ -16,10 +16,10 @@ namespace Disaheim
             set { _itemId = value; }
         }
 
-        //public Merchandise(string itemId) 
-        //{
-        //    ItemId = itemId;
-        //}
+        public Merchandise(string itemId)
+        {
+            ItemId = itemId;
+        }
 
         public virtual string ToString()
         {

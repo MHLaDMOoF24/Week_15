@@ -2,8 +2,8 @@
 {
     public enum Level
     {
-        medium,
         low,
+        medium,
         high,
     }
 }

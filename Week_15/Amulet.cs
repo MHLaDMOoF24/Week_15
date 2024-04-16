@@ -1,4 +1,6 @@
-﻿namespace Disaheim
+﻿using System.Xml.Linq;
+
+namespace Disaheim
 {
     public class Amulet : Merchandise
     {
@@ -15,24 +17,19 @@
             set { _quality = value; }
         }
 
-        public Amulet(string itemId)
+        public Amulet(string itemId) : base(itemId) => Quality = Level.medium;
+        public Amulet(string itemId, Level quality) : base(itemId)
         {
-            ItemId = itemId;
-        }
-        public Amulet(string itemId, Level quality)
-        {
-            ItemId = itemId;
             Quality = quality;
         }
-        public Amulet(string itemId, Level quality, string design)
+        public Amulet(string itemId, Level quality, string design) : base(itemId)
         {
-            ItemId = itemId;
             Quality = quality;
             Design = design;
         }
         public override string ToString()
         {
-            return $"ItemId: {ItemId}, Quality: {Quality}, Design: {Design}";
+            return $"{base.ToString()}, Quality: {Quality}, Design: {Design}";
         }
     }
 }
