@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\Week_15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\merchandiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\merchandiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\ivaluable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\ivaluable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\valuablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\valuablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11BD6D22-8044-4B7D-A32C-00B6685BF4AC}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\martin\\source\\repos\\week_15\\disaheimtest\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11BD6D22-8044-4B7D-A32C-00B6685BF4AC}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11BD6D22-8044-4B7D-A32C-00B6685BF4AC}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\martin\\source\\repos\\week_15\\disaheimtest\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11BD6D22-8044-4B7D-A32C-00B6685BF4AC}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11BD6D22-8044-4B7D-A32C-00B6685BF4AC}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\martin\\source\\repos\\week_15\\disaheimtest\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BD6D22-8044-4B7D-A32C-00B6685BF4AC}|DisaheimTest\\DisaheimTest.csproj|solutionrelative:disaheimtest\\unittest5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\merchandiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\merchandiserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|c:\\users\\martin\\source\\repos\\week_15\\week_15\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC247CC-A50B-407C-85DF-4D37A479A6F1}|Week_15\\Disaheim.csproj|solutionrelative:week_15\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,134 +70,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Utility.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Utility.cs",
-              "RelativeDocumentMoniker": "Week_15\\Utility.cs",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Utility.cs",
-              "RelativeToolTip": "Week_15\\Utility.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "DocumentIndex": 5,
+              "Title": "UnitTest5.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\DisaheimTest\\UnitTest5.cs",
+              "RelativeDocumentMoniker": "DisaheimTest\\UnitTest5.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\DisaheimTest\\UnitTest5.cs",
+              "RelativeToolTip": "DisaheimTest\\UnitTest5.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDMAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T10:19:08.141Z",
+              "WhenOpened": "2024-04-16T16:33:00.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Controller.cs",
+              "RelativeDocumentMoniker": "Week_15\\Controller.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Controller.cs",
+              "RelativeToolTip": "Week_15\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:08:17.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\ValuableRepository.cs",
+              "RelativeDocumentMoniker": "Week_15\\ValuableRepository.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\ValuableRepository.cs",
+              "RelativeToolTip": "Week_15\\ValuableRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:26:54.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MerchandiseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\MerchandiseRepository.cs",
-              "RelativeDocumentMoniker": "Week_15\\MerchandiseRepository.cs",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\MerchandiseRepository.cs",
-              "RelativeToolTip": "Week_15\\MerchandiseRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAUAAAA",
+              "Title": "IValuable.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\IValuable.cs",
+              "RelativeDocumentMoniker": "Week_15\\IValuable.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\IValuable.cs",
+              "RelativeToolTip": "Week_15\\IValuable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:48:38.598Z",
+              "WhenOpened": "2024-04-16T16:02:41.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Merchandise.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Merchandise.cs",
               "RelativeDocumentMoniker": "Week_15\\Merchandise.cs",
               "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Merchandise.cs",
               "RelativeToolTip": "Week_15\\Merchandise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T07:33:52.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "Week_15\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\CourseRepository.cs",
-              "RelativeToolTip": "Week_15\\CourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T10:28:49.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Controller.cs",
-              "RelativeDocumentMoniker": "Week_15\\Controller.cs",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Controller.cs",
-              "RelativeToolTip": "Week_15\\Controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T07:08:17.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Course.cs",
               "RelativeDocumentMoniker": "Week_15\\Course.cs",
               "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Course.cs",
               "RelativeToolTip": "Week_15\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCQAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T10:41:52.797Z"
+              "WhenOpened": "2024-04-11T10:41:52.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Book.cs",
               "RelativeDocumentMoniker": "Week_15\\Book.cs",
               "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Book.cs",
               "RelativeToolTip": "Week_15\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T08:44:14.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Amulet.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Amulet.cs",
               "RelativeDocumentMoniker": "Week_15\\Amulet.cs",
               "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Amulet.cs",
               "RelativeToolTip": "Week_15\\Amulet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwDQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T08:08:59.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTest4.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\DisaheimTest\\UnitTest4.cs",
-              "RelativeDocumentMoniker": "DisaheimTest\\UnitTest4.cs",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\DisaheimTest\\UnitTest4.cs",
-              "RelativeToolTip": "DisaheimTest\\UnitTest4.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwD4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T10:47:49.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnitTest2.cs",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\DisaheimTest\\UnitTest2.cs",
-              "RelativeDocumentMoniker": "DisaheimTest\\UnitTest2.cs",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\DisaheimTest\\UnitTest2.cs",
-              "RelativeToolTip": "DisaheimTest\\UnitTest2.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAgwHIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T12:20:21.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Level.cs",
               "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\Level.cs",
               "RelativeDocumentMoniker": "Week_15\\Level.cs",
@@ -205,7 +182,32 @@
               "RelativeToolTip": "Week_15\\Level.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:37:31.668Z",
+              "WhenOpened": "2024-04-09T08:37:31.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MerchandiseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\MerchandiseRepository.cs",
+              "RelativeDocumentMoniker": "Week_15\\MerchandiseRepository.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\MerchandiseRepository.cs",
+              "RelativeToolTip": "Week_15\\MerchandiseRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:48:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Week_15\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Week_15\\Week_15\\CourseRepository.cs",
+              "RelativeToolTip": "Week_15\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:28:49.486Z",
               "EditorCaption": ""
             }
           ]

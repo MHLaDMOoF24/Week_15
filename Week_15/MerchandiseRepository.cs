@@ -26,23 +26,23 @@ namespace Disaheim
             return null;
         }
 
-        public double GetTotalValue()
-        {
-            double total = 0;
-            foreach (Merchandise merchandise in merchandises)
-            {
-                if (merchandise is Amulet)
-                {
-                    Amulet amulet = (Amulet)merchandise;
-                    total += Utility.GetValueOfMerchandise(amulet);
-                }
-                else if (merchandise is Book)
-                {
-                    Book book = (Book)merchandise;
-                    total += Utility.GetValueOfMerchandise(book);
-                }
-            }
-            return total;
-        }
+        //public double GetTotalValue()
+        //{
+        //    double total = 0;
+        //    foreach (Merchandise merchandise in merchandises)
+        //    {
+        //        if (merchandise is Amulet)
+        //        {
+        //            Amulet amulet = (Amulet)merchandise;
+        //            total += Utility.GetValueOfMerchandise(amulet);
+        //        }
+        //        else if (merchandise is Book)
+        //        {
+        //            Book book = (Book)merchandise;
+        //            total += Utility.GetValueOfMerchandise(book);
+        //        }
+        //    }
+        //    return total;
+        //}
     }
 }

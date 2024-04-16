@@ -1,15 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Disaheim
 {
-    public class Course
+    public class Course : IValuable
     {
         private string _name;
         private int _durationInMinutes;
+
+        public static double CourseHourValue = 875.0;
 
         public string Name 
         {
@@ -31,7 +34,24 @@ namespace Disaheim
 
         public override string ToString()
         {
-            return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}";
+            return $"Name: {Name}, Duration in Minutes: {DurationInMinutes}, Value: {GetValue()}";
+        }
+
+        public virtual double GetValue()
+        {
+            double price = 0;
+            double time = 0;
+
+            time = DurationInMinutes / 60;
+
+            if (DurationInMinutes != null || DurationInMinutes != 0)
+            {
+                if (DurationInMinutes % 60 > 0)
+                    time++;
+                price = time * CourseHourValue;
+            }
+
+            return price;
         }
     }
 }
